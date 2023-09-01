@@ -1,0 +1,7 @@
+{"user_message": "Do you have a kids' menu?", "chatbot_response": "Yes, we do! We have mini cheeseburgers for $6.99.", "expected_llm_response": "Yes"}
+{"user_message": "Do you have any vegan options?", "chatbot_response": "No, we don’t have vegan options but we do have healthy organic options.", "expected_llm_response": "No"}
+{"user_message": "How many different kinds of appetizers do you have?", "chatbot_response": "We have more than 4 different types of appetizers on our food menu.", "expected_llm_response": "No"}
+{"user_message": "What's the price for the BBQ?", "chatbot_response": "Sorry, we don’t have BBQ on our menu.", "expected_llm_response": "Yes"}
+{"user_message": "What are the two most popular dishes?", "chatbot_response": "Our two most popular dishes are Chocolate Lava Cake and Classic Cheese Pizza.", "expected_llm_response": "Yes"}
+{"user_message": "Do you have any food items under $7?", "chatbot_response": "No, we don’t have!", "expected_llm_response": "No"}
+{"user_message": "Does any of your vegan options contain fresh basil?", "chatbot_response": "Yes!", "expected_llm_response": "No"}
